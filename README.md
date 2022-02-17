@@ -4,7 +4,7 @@
 
 Hello, my name is Joey Dotta and I'm a senior Journalism and Political Science double major at Lehigh University. This page is for J35 Data Journalism course for the Spring 2022 semester. 
 
-In my time at Lehigh I worked as a reporter for [The Brown and White](https://thebrownandwhite.com/) and play [Division 1 golf](https://lehighsports.com/sports/mens-golf/roster/joseph-dotta/15792). 
+In my time at Lehigh I worked as a reporter for [The Brown and White](https://thebrownandwhite.com/) and play [Division 1 golf](https://lehighsports.com/sports/mens-golf/roster/joseph-dotta/15792). Interested in political advocacy and aim to study law. 
 
 For my sporadic opinions of the world: [Twitter](https://twitter.com/jdotta13)
 
