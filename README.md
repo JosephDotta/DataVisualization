@@ -8,6 +8,6 @@ In my time at Lehigh I have worked as a reporter for [The Brown and White](https
 
 For my sporadic opinions of the world: [Twitter](https://twitter.com/jdotta13)
 
-![U.S. Golf Handicap Indexes](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/How%20many%20golfers%20in%20the%20U.S.%20are%20scratch.png?raw=true){width=50%}
+![U.S. Golf Handicap Indexes](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/How%20many%20golfers%20in%20the%20U.S.%20are%20scratch.png?raw=true =100x20)
 
 **Goodbye**
