@@ -10,5 +10,6 @@ For my sporadic opinions of the world: [Twitter](https://twitter.com/jdotta13)
 
 ### U.S. Golf Handicap Indexes
 ![U.S. Golf Handicap Indexes](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/How%20many%20golfers%20in%20the%20U.S.%20are%20scratch.png?raw=true=80x20)
+There was an estimated [24.8 million Americans who played a round of golf in 2020. Of those golfers, roughly two million carry an official USGA handicap.]( 
 
 **Goodbye**
