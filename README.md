@@ -10,7 +10,9 @@ For my sporadic opinions of the world: [Twitter](https://twitter.com/jdotta13)
 
 ### U.S. Golf Handicap Indexes
 ![U.S. Golf Handicap Indexes](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/How%20many%20golfers%20in%20the%20U.S.%20are%20scratch.png?raw=true=80x20)
+
 A handicap quantifies what a golfer will shoot on average in relation to the par or course rating on any particular golf course. There was an estimated [24.8 million Americans who played a round of golf in 2020. Of those golfers, roughly two million carry an official USGA handicap.](https://www.linksmagazine.com/how-do-you-match-up-against-the-average-golf-handicap-in-2020/) The USGA is the governing body for the sport of golf with [statistics stating that 1.85% of male golfers in America hold a handicap of scratch (o.o or better)](https://www.usga.org/content/usga/home-page/handicapping/handicapping-stats.html). Per the data from the USGA, I carry a +1.1 Index which puts me in the top 1.13% of male golfers in the U.S.
+
 ![My latest GHIN](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Screenshot%202022-02-27%201.47.14%20PM.png?raw=true)
 (taken from [Golf Handicap Information Network](https://www.ghin.com/profile))
 
