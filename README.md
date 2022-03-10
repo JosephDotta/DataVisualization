@@ -26,6 +26,6 @@ As a political science major and avid golfer myself this was a natural interest 
 
 Here is a practice chart made on [ChartBuilder](https://quartz.github.io/Chartbuilder/) that shows the three most populous countries in terms of a billion people. The data is from 1952-61
 
-
+![Line chart example](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/The_Three_Most_Populous_Countries_China_India_U.S._chartbuilder.png?raw=true)
 
 **Goodbye**
