@@ -29,4 +29,9 @@ Here is a practice chart made on [ChartBuilder](https://quartz.github.io/Chartbu
 
 ![Line chart example](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/The_Three_Most_Populous_Countries_China_India_U.S._chartbuilder.png?raw=true)
 
+In an attempt to further perfect our skills building charts, we were tasked with creating a bar chart of data about Lehigh University's Fall 2021 incoming class. 
+
+![Bar chart example](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Lehigh_Fall_2021_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
+
 **Goodbye**
