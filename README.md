@@ -34,5 +34,11 @@ In an attempt to further perfect our skills building charts, we were tasked with
 
 ![Bar chart example](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Lehigh_Fall_2021_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
+### My Golf Scores 
+
+Using [Chartbuilder](https://quartz.github.io/Chartbuilder/), I made a bar chart of my average score for the four seasons in 2021. I compiled the data after each of my rounds and stored them on my phone/computer. Each seasonal average is of five or more rounds. 
+
+
+
 
 **Goodbye**
