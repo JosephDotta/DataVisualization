@@ -38,7 +38,7 @@ In an attempt to further perfect our skills building charts, we were tasked with
 
 Using [Chartbuilder](https://quartz.github.io/Chartbuilder/), I made a bar chart of my average score for the four seasons in 2021. I compiled the data after each of my rounds and stored them on my phone/computer. Each seasonal average is of five or more rounds. 
 
-
+![Bar Chart Golf Scores](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Average_Golf_Score_By_Season_in_2021_Average_Score_chartbuilder.png?raw=true)
 
 
 **Goodbye**
