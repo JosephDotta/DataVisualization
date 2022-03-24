@@ -38,7 +38,7 @@ Our next practice graph on [Chartbuilder](https://quartz.github.io/Chartbuilder/
 
 ![Time-series chart](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Percent_of_Undergraduate_Enrollment_by_College_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
-Lastly, we practice creating a scatterplot on Chartbuilder using data from World Bank. Life satisfaction is measured and quantified using the Cantril Ladder from the 2019 World Happiness Report. 
+Lastly, we practice creating a scatterplot on [Chartbuilder](https://quartz.github.io/Chartbuilder/) using data from World Bank. Life satisfaction is measured and quantified using the Cantril Ladder from the 2019 World Happiness Report. 
 
 ![Scatterplot](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Measure_of_Life_Satisfaction_compared_to_Country_GDP_per_capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
 
