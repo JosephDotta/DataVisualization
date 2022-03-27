@@ -48,5 +48,9 @@ Using [Chartbuilder](https://quartz.github.io/Chartbuilder/), I made a bar chart
 
 ![Bar Chart Golf Scores](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Average_Golf_Score_By_Season_in_2021_Average_Score_chartbuilder.png?raw=true)
 
+Using Chartbuilder, I used the data I compiled during the 2021 spring season to create a scatterplot comparing all my 18-hole scores in practice and competition to the number of putts I had in each round. 
+
+![Scatterplot Score vs Putts](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Spring_2021_Scores_and_Number_of_Putts__Putts__chartbuilder.png?raw=true)
+
 
 **Goodbye**
