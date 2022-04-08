@@ -56,5 +56,11 @@ Using [Chartbuilder](https://quartz.github.io/Chartbuilder/), I used the data I 
 
 ![Scatterplot Score vs Putts](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Spring_2021_Scores_and_Number_of_Putts__Putts__chartbuilder.png?raw=true)
 
+### Lehigh Men's Golf 
+
+As mentioned before, I'm a senior on the Lehigh men's golf and although we are technically in-season during the spring, we play both seasons for nearly a full year of golf. I decided to plot every tournament we have played or will soon play during the 2021-2022 season. Tournament information is courtesy of [Lehigh Sports](https://lehighsports.com/sports/mens-golf/schedule). 
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1vA3DRzMahw7y28COMOoVA1kw4cU8JJdE&ehbc=2E312F" width="640" height="480"></iframe>
+
 
 **Goodbye**
