@@ -42,6 +42,10 @@ Lastly, we practice creating a scatterplot on [Chartbuilder](https://quartz.gith
 
 ![Scatterplot](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Measure_of_Life_Satisfaction_compared_to_Country_GDP_per_capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
 
+We used a [WIRED](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/) article to map on Google Maps the 20 best cycling cities during in-class practice. 
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1xDv8BE6Uu26sIdb0YbuI-DCQmsXxOYXj&ehbc=2E312F" width="640" height="480"></iframe>
+
 ### My Golf Scores 
 
 Using [Chartbuilder](https://quartz.github.io/Chartbuilder/), I made a bar chart of my average score for the four seasons in 2021. I compiled the data after each of my rounds and stored them on my phone/computer. Each seasonal average is of five or more rounds. 
