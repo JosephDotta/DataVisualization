@@ -46,8 +46,9 @@ We used a [WIRED](https://www.wired.com/story/most-bike-friendly-cities-2019-cop
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1xDv8BE6Uu26sIdb0YbuI-DCQmsXxOYXj&ehbc=2E312F" width="640" height="480"></iframe>
 
+### Tableau Visualizations
 
-We build on our knowledge of chartbuilding and created interactive graphs that compared and visualized various data points at once. 
+We build on our knowledge of chartbuilding and created interactive graphs that compared and visualized various data points at once. We were provided a data set collected by former students about preferences in partying for various groups of students. I decided to highlight preferences between genders and different social groups on campus. 
 
 ![Tableau Graph](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Dashboard_%20Lehigh%20Party.png?raw=true)
 
