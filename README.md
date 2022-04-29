@@ -24,38 +24,6 @@ As a political science major and avid golfer myself this was a natural interest 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=12pfGkSEbL0qqFMBIc7_dH6IjqegCp-3JmHV8V0KGScg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-### Examples of Building Charts
-
-Here is a practice chart made on [ChartBuilder](https://quartz.github.io/Chartbuilder/) that shows the three most populous countries in terms of a billion people. The data is from 1952-61
-
-![Line chart example](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/The_Three_Most_Populous_Countries_China_India_U.S._chartbuilder.png?raw=true)
-
-In an attempt to further perfect our skills building charts, we were tasked with creating a bar chart of data about Lehigh University's Fall 2021 incoming class again on [ChartBuilder](https://quartz.github.io/Chartbuilder/) 
-
-![Bar chart example](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Lehigh_Fall_2021_Undergraduate_Enrollment_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
-
-Our next practice graph on [Chartbuilder](https://quartz.github.io/Chartbuilder/) was to make a time-series chart on information about Lehigh's undergraduate enrollment the past five years.
-
-![Time-series chart](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Percent_of_Undergraduate_Enrollment_by_College_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
-
-Lastly, we practice creating a scatterplot on [Chartbuilder](https://quartz.github.io/Chartbuilder/) using data from World Bank. Life satisfaction is measured and quantified using the Cantril Ladder from the 2019 World Happiness Report. 
-
-![Scatterplot](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Measure_of_Life_Satisfaction_compared_to_Country_GDP_per_capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
-
-We used a [WIRED](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/) article to map on Google Maps the 20 best cycling cities during in-class practice. 
-
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1xDv8BE6Uu26sIdb0YbuI-DCQmsXxOYXj&ehbc=2E312F" width="640" height="480"></iframe>
-
-### Tableau Visualizations
-
-We build on our knowledge of chartbuilding and created interactive graphs that compared and visualized various data points at once. We were provided a data set collected by former students about preferences in partying for various groups of students. I decided to highlight preferences between genders and different social groups on campus. 
-
-![Tableau Graph](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Dashboard_%20Lehigh%20Party.png?raw=true)
-
-I worked on a Tableau visualization myself and chose to group data from Pew Research Center about what news networks people from different demographics watch. I used public.tableau.com browser version to do the project and it worked perfectly until it came time to publish. I kept getting error messages about extract files so I screenshotted the worksheet here and hope to fix it as soon as possible. 
-
-![Tableau Practice](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Screenshot%202022-04-28%209.34.19%20PM.png?raw=true)
-
 ### My Golf Scores 
 
 Using [Chartbuilder](https://quartz.github.io/Chartbuilder/), I made a bar chart of my average score for the four seasons in 2021. I compiled the data after each of my rounds and stored them on my phone/computer. Each seasonal average is of five or more rounds. 
@@ -71,6 +39,16 @@ Using [Chartbuilder](https://quartz.github.io/Chartbuilder/), I used the data I 
 As mentioned before, I'm a senior on the Lehigh men's golf and although we are technically in-season during the spring, we play both seasons for nearly a full year of golf. I decided to plot every tournament we have played or will soon play during the 2021-2022 season. Tournament information is courtesy of [Lehigh Sports](https://lehighsports.com/sports/mens-golf/schedule). 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1vA3DRzMahw7y28COMOoVA1kw4cU8JJdE&ehbc=2E312F" width="640" height="480"></iframe>
+
+### Tableau Visualizations
+
+We built on our knowledge of chartbuilding and created interactive graphs that compared and visualized various data points at once. We were provided a data set collected by former students about preferences in partying for various groups of students. I decided to highlight preferences between genders and different social groups on campus. 
+
+![Tableau Graph](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Dashboard_%20Lehigh%20Party.png?raw=true)
+
+I worked on a Tableau visualization myself and chose to group data from Pew Research Center about what news networks people from different demographics watch. I used public.tableau.com browser version to do the project and it worked perfectly until it came time to publish. I kept getting error messages about extract files so I screenshotted the worksheet here and hope to fix it as soon as possible. 
+
+![Tableau Practice](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Screenshot%202022-04-28%209.34.19%20PM.png?raw=true)
 
 
 **Goodbye**
