@@ -52,6 +52,10 @@ We build on our knowledge of chartbuilding and created interactive graphs that c
 
 ![Tableau Graph](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Dashboard_%20Lehigh%20Party.png?raw=true)
 
+I worked on a Tableau visualization myself and chose to group data from Pew Research Center about what news networks people from different demographics watch. I used public.tableau.com browser version to do the project and it worked perfectly until it came time to publish. I kept getting error messages about extract files so I screenshotted the worksheet here and hope to fix it as soon as possible. 
+
+![Tableau Practice](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Screenshot%202022-04-28%209.34.19%20PM.png?raw=true)
+
 ### My Golf Scores 
 
 Using [Chartbuilder](https://quartz.github.io/Chartbuilder/), I made a bar chart of my average score for the four seasons in 2021. I compiled the data after each of my rounds and stored them on my phone/computer. Each seasonal average is of five or more rounds. 
