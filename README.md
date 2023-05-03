@@ -1,6 +1,6 @@
 # Accessory Dwelling Units in the City of Bethlehem 
 
-![Morton St Alley House](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Screenshot%202023-05-02%2010.34.21%20PM.png?raw=true)
+![Morton St Alley House](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/Screenshot%202023-05-02%2010.34.21%20PM.png?raw=true =250x250)
 
 
 ### Why an overlay is necessary
