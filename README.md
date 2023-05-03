@@ -1,5 +1,7 @@
 # Accessory Dwelling Units in the City of Bethlehem 
 
+![Princeton Alley House](
+
 ### Why an overlay is necessary
 
 According to Christina Stacy, a senior research associate at the Urban Institute, the [top two issues](https://www.washingtonpost.com/realestate/accessory-dwellings-offer-one-solution-to-the-affordable-housing-problem/2021/01/07/b7e48918-0417-11eb-897d-3a6201d6643f_story.html) of actually building ADU units is the general lack of information about them and the amount of funding required for construction. 
