@@ -1,6 +1,7 @@
 # Accessory Dwelling Units in the City of Bethlehem 
 
-![Princeton Alley House](
+![Morton St Alley House](https://github.com/JosephDotta/JosephDotta.github.io/blob/main/alleyhouseprinceton.jpg?raw=true)
+
 
 ### Why an overlay is necessary
 
