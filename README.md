@@ -18,6 +18,3 @@ A quick walk down Morton Street in South Bethlehem will reveal that there are su
 Again Bethlehem is experiencing unprecendented population growth and lacks a housing supply to match. The best possible way to alleviate the issue is to look back at effective changes that Bethlehem enacted. 
 
 The Bethlehem Zoning Ordinance has set forth degenerative restrictions on the feasibility of ADUs. Changing the zoning code would be a vital step to take in tandem with the high-density residential incentive layer. 
-
-### What does a 21st-century ADU look like?
-
